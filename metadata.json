@@ -1,0 +1,6 @@
+{
+  "name": "AI Fake Review Detection System",
+  "description": "An Explainable AI (xAI) system detecting deceptive reviews using fine-tuned DistilBERT and decoupled linguistic heuristics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
